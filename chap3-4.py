@@ -1,5 +1,5 @@
 '''
-
+chapter3 Ex.4)
 Write the pseudocode for a program where the player and 
 the computer trade places in the number guessing game. 
 That is, the player picks a random number between 1 and 100 
@@ -29,7 +29,7 @@ import random
 guessNum = ""
 randNum = 0 
 
-guessNum = int(input("Enter the number between 1 and 100 and press Enter. Computer will not see this number. He will try to guess. "))
+guessNum = int(input("Enter the number between 1 and 100 and press Enter. Computer will not see this number. She will try to guess. "))
 
 while guessNum != 0:
     

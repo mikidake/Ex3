@@ -14,7 +14,7 @@ try coding the game.
 #generate a random number that is the computer guessed number guessNum
 #ask player to guess the number
 #player enters the guessed number guessNum
-#message will be Enter the number between 1 to 100 and press Enter. Computer will not see this number. He will try to guess.
+#message will be Enter the number between 1 to 100 and press Enter. Computer will not see this number. She will try to guess.
 #computer has only one chance to guess.
 #player enters a number.
 
